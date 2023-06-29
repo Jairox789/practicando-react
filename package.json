@@ -1,0 +1,20 @@
+{
+  "name": "practicando-react",
+  "version": "1.0.0",
+  "description": "Para practicar React",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jairox789/practicando-react.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jairox789/practicando-react/issues"
+  },
+  "homepage": "https://github.com/Jairox789/practicando-react#readme"
+}
